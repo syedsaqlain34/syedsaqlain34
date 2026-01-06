@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Full Stack Web Developer.
+🔭 I’m a Junior Web Developer.
 
 
 ## 🌐 Socials:
