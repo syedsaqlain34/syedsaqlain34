@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Junior Web Developer.
+🔭 I’m a Junior Web Developer..
 
 
 ## 🌐 Socials:
